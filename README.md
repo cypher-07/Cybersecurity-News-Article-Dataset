@@ -1,2 +1,2 @@
 # Cybersecurity-News-Article-Dataset
-This dataset contains cyber security news articles from 'The Hacker News'.
+This dataset contains cyber security news articles from 'The Hacker News'. The total number of collected news articles is 3742. The dataset was created with the goal of creating a classification model that can read a news article about a hacking incident and decide which type of attack it belongs to. With the aid of specialists and consensus, the news categories are labeled with distinct types of cyber threats.
